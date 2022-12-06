@@ -1,0 +1,30 @@
+////////////////////////////////////////////////////////////////
+
+#pragma once
+
+////////////////////////////////////////////////////////////////
+
+#include "_datatypes.h"
+
+////////////////////////////////////////////////////////////////
+
+struct Dt_Categoria
+{
+	using Tipo = Enum_Categoria;
+
+	string nombre      ;
+	string descripcion ;
+	Tipo   tipo        ;
+
+	// Dt_Categoria
+	// (	Tipo   const tipo
+	// ,	string const nombre
+	// ,	string const descripcion
+	// ){
+	// 	this->tipo        = tipo        ;
+	// 	this->nombre      = nombre      ;
+	// 	this->descripcion = descripcion ;
+	// }
+};
+
+////////////////////////////////////////////////////////////////
