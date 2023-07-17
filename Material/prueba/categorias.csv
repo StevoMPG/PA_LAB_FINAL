@@ -1,0 +1,14 @@
+Ref 	Nombre        	Tipo       	Descripcion
+C1  	PC            	Plataforma
+C2  	PS4           	Plataforma
+C3  	Xbox One      	Plataforma
+C11 	Switch        	Plataforma
+C12 	Xbox X        	Plataforma
+C13 	PS5           	Plataforma
+C4  	Deporte       	Genero
+C5  	Supervivencia 	Genero
+C6  	Estrategia    	Genero
+C9  	Accion        	Genero
+C10 	Aventura      	Genero
+C7  	Teen          	Otro       	Su contenido esta dirigido a jovenes de 13 anios en adelante
+C8  	E             	Otro       	Su contenido esta dirigido para todo publico

@@ -1,0 +1,5 @@
+Ref	Creador	Videojuego	Tipo	Dia	Mes	Anio	Hora	Minuto	Continua
+P1	gamer@mail.com	KingdomRush	Individual	02	06	21	9	00
+P2	gamer@mail.com	KingdomRush	Individual	03	06	21	15	00	P1
+P3		Minecraft	Individual	12	06	21	16	00
+
